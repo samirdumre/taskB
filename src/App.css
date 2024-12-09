@@ -1,0 +1,37 @@
+#root {
+  text-align: center;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+    overflow: auto;
+
+}
+
+.column {
+    /* display: flex; */
+    width: 300px;
+}
+
+.item {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.details {
+    display: block;
+    flex-wrap: wrap;
+}
+
+.todo-title {
+    font-weight: bold;
+}
