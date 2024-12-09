@@ -26,7 +26,7 @@ Local storage and keyboard functionalities can be implemented. Typescript can be
 https://samirdumre.github.io/taskB/
 
 ## Time taken
-Task A: 4 hours
+Task B: 4 hours
 
 
 
